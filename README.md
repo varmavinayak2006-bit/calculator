@@ -1,2 +1,3 @@
 # calculator
 a basic ready to use calculator that perform basic operation
+Author - Vinayak Varma
